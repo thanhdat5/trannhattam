@@ -29,7 +29,7 @@ define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settin
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
 define( 'WPCACHEHOME', 'C:\xampp\htdocs\trannhattam\wp-content\plugins\wp-super-cache/' );
-define( 'DB_NAME', 'trannhattam' );
+define( 'DB_NAME', 'nbhjqrkmzv' );
 
 /** MySQL database username */
 define( 'DB_USER', 'nbhjqrkmzv' );
