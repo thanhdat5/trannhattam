@@ -1,5 +1,6 @@
 <?php
-
+define('WP_HOME','http://wordpress-269698-836653.cloudwaysapps.com');
+define('WP_SITEURL','http://wordpress-269698-836653.cloudwaysapps.com');
 // BEGIN iThemes Security - Do not modify or remove this line
 // iThemes Security Config Details: 2
 define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
@@ -31,10 +32,10 @@ define( 'WPCACHEHOME', 'C:\xampp\htdocs\trannhattam\wp-content\plugins\wp-super-
 define( 'DB_NAME', 'trannhattam' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'nbhjqrkmzv' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'qXWDgw5fU8' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
